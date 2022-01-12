@@ -5,9 +5,43 @@ body{
 h1{
     font-size: 60px;
 }
+p{
+    font-size: 20px;
+}
 .header-section{
     text-align: center;
 }
 .header-section p{
     opacity: 60%;
+}
+.order-food-section{
+    display: flex;
+    margin: 100px 50px 100px 100px;
+}
+.half-section-content{
+    width: 50%;
+    padding: 10% 0%;
+}
+.half-section{
+    width: 50%;
+}
+.orange-color{
+    color: orange;
+}
+.half-section-content p{
+    margin-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 18;
+    font-weight: 600;
+    padding: 20px  40px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, orange, tomato);
+    color: white;
+    
+
+    
+    
+    
 }
