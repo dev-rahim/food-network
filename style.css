@@ -88,6 +88,7 @@ section{
 .about-me-section{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+        background-size: cover;
 }
 .about-me-section img{
     height: 530px;
